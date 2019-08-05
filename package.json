@@ -1,6 +1,6 @@
 {
   "name": "create-starter-kit-starter-example",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "bin": "./index.js",
   "dependencies": {
     "enquirer": "2.3.1",
