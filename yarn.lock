@@ -63,10 +63,10 @@ recursive-readdir@2.2.2:
   dependencies:
     minimatch "3.0.4"
 
-starter-kit-starter@0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/starter-kit-starter/-/starter-kit-starter-0.1.1.tgz#5d54afd8dd8635a7c175053e4b292da01addbda4"
-  integrity sha512-WcIQ4l4iCdYGqqtJYoApoBv2AZonAZNwKwo0JzK3w8y734ZF4OZYNO6pJDQJkFc2UttgGVvuydixh4BUvbiy0w==
+starter-kit-starter@0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/starter-kit-starter/-/starter-kit-starter-0.1.2.tgz#9f826e848026e50b0f0da4de4466b1483167ed2c"
+  integrity sha512-BMb9zYQrUt6whe5Pmk364A6HE3rXBwnyAngpNBdCw8fkAjdqEmnuKBXsllsvlsIQs0u0tbgEPE4IE2XTal/0Rg==
   dependencies:
     mkdirp "0.5.1"
     recursive-readdir "2.2.2"
